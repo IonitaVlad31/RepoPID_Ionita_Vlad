@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Anul3\\PID\\PID_Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46916620-F543-4A92-93C0-F8FBEFECFBD6}|Framework\\Framework.csproj|c:\\anul3\\pid\\pid_framework\\framework\\viewmodel\\commands\\menucommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46916620-F543-4A92-93C0-F8FBEFECFBD6}|Framework\\Framework.csproj|solutionrelative:framework\\viewmodel\\commands\\menucommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46916620-F543-4A92-93C0-F8FBEFECFBD6}|Framework\\Framework.csproj|C:\\Anul3\\PID\\PID_Framework\\framework\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46916620-F543-4A92-93C0-F8FBEFECFBD6}|Framework\\Framework.csproj|solutionrelative:framework\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2204949-5A56-49A4-9EF9-E4A177560169}|Algorithms\\Algorithms.csproj|C:\\Anul3\\PID\\PID_Framework\\algorithms\\sections\\pointwiseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2204949-5A56-49A4-9EF9-E4A177560169}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\sections\\pointwiseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46916620-F543-4A92-93C0-F8FBEFECFBD6}|Framework\\Framework.csproj|C:\\Anul3\\PID\\PID_Framework\\framework\\viewmodel\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46916620-F543-4A92-93C0-F8FBEFECFBD6}|Framework\\Framework.csproj|solutionrelative:framework\\viewmodel\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2204949-5A56-49A4-9EF9-E4A177560169}|Algorithms\\Algorithms.csproj|C:\\Anul3\\PID\\PID_Framework\\algorithms\\tools\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2204949-5A56-49A4-9EF9-E4A177560169}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\tools\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointwiseOperations.cs",
+              "DocumentMoniker": "C:\\Anul3\\PID\\PID_Framework\\Algorithms\\Sections\\PointwiseOperations.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Sections\\PointwiseOperations.cs",
+              "ToolTip": "C:\\Anul3\\PID\\PID_Framework\\Algorithms\\Sections\\PointwiseOperations.cs",
+              "RelativeToolTip": "Algorithms\\Sections\\PointwiseOperations.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:34:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Anul3\\PID\\PID_Framework\\Framework\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Framework\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Anul3\\PID\\PID_Framework\\Framework\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Framework\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T06:28:09.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuCommands.cs",
+              "DocumentMoniker": "C:\\Anul3\\PID\\PID_Framework\\Framework\\ViewModel\\Commands\\MenuCommands.cs",
+              "RelativeDocumentMoniker": "Framework\\ViewModel\\Commands\\MenuCommands.cs",
+              "ToolTip": "C:\\Anul3\\PID\\PID_Framework\\Framework\\ViewModel\\Commands\\MenuCommands.cs",
+              "RelativeToolTip": "Framework\\ViewModel\\Commands\\MenuCommands.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwP0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:21:03.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Anul3\\PID\\PID_Framework\\Framework\\ViewModel\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Framework\\ViewModel\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Anul3\\PID\\PID_Framework\\Framework\\ViewModel\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Framework\\ViewModel\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:21:00.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Anul3\\PID\\PID_Framework\\Algorithms\\Tools\\Tools.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Tools\\Tools.cs",
+              "ToolTip": "C:\\Anul3\\PID\\PID_Framework\\Algorithms\\Tools\\Tools.cs",
+              "RelativeToolTip": "Algorithms\\Tools\\Tools.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:44:01.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
